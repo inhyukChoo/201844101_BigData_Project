@@ -1,4 +1,2 @@
 # 201844101_BigData_Project
 201844101_BigData_Project
-
-테스트
